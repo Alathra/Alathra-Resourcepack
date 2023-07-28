@@ -2,21 +2,24 @@ name: Release resource-pack
 
 on:
   push:
+    branches:
+      - 'main'
     tags:
       - '**'
 
 jobs:
   release:
-    name: Bundle and release files
+    name: Create Release
     runs-on: ubuntu-latest
     steps:
+      # Download files and cache Git LFS files to reduce bandwidth usage
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           lfs: true
 
-      - name: Create LFS file list
+      - name: LFS Create File List
         run: git lfs ls-files --long | cut -d ' ' -f1 | sort > .lfs-assets-id
 
       - name: LFS Cache
@@ -27,23 +30,32 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-lfs-
 
-      - name: Git LFS Pull
+      - name: LFS Pull
         run: git lfs pull
 
-      - name: Compile and upload
+      # Uploads files so they can be optimized
+      - name: Compile Temp Archive
         uses: actions/upload-artifact@v3
         with:
-          name: alathra-resourcepack
+          name: temp-resourcepack
           path: |
             assets/
             pack.mcmeta
             pack.png
           if-no-files-found: error
 
-      - name: Optimized Release Archive
+      # Makes the semantic tag variable available for use in workflow
+      - name: Get Release Info
+        id: semantic_release_info
+        uses: jossef/action-semantic-release-info@v2.1.0
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      # Create optimized archive for release
+      - name: Compile Release Archive
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          artifact_name: '[UNZIP ME] alathra-resourcepack'
+          artifact_name: '[UNZIP ME] temp-resourcepack'
           packsquash_version: latest
           options: |
             # Optimize the pack in the root repository directory.
@@ -52,8 +64,10 @@ jobs:
 
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
-            output_file_path = '/tmp/pack.zip'
-      - name: Create release
+            output_file_path = '/tmp/alathra-${{ steps.semantic_release_info.outputs.git_tag }}.zip'
+
+      # Create release
+      - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: /tmp/pack.zip
+          files: /tmp/alathra-${{ steps.semantic_release_info.outputs.git_tag }}.zip
