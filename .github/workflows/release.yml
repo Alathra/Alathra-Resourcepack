@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    name: Optimize resource pack
+    name: Bundle and release files
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -39,15 +39,6 @@ jobs:
             pack.mcmeta
             pack.png
           if-no-files-found: error
-
-  packsquash:
-    name: Optimize resource pack
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - name: Optimized Release Archive
         uses: ComunidadAylas/PackSquash-action@v4
