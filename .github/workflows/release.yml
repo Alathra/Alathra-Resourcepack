@@ -6,7 +6,7 @@ on:
       - '**'
 
 jobs:
-  packsquash:
+  release:
     name: Optimize resource pack
     runs-on: ubuntu-latest
     steps:
@@ -30,16 +30,38 @@ jobs:
       - name: Git LFS Pull
         run: git lfs pull
 
+      - name: Compile and upload
+        uses: actions/upload-artifact@v3
+        with:
+          name: alathra-resourcepack
+          path: |
+            assets/
+            pack.mcmeta
+            pack.png
+          if-no-files-found: error
+
+  packsquash:
+    name: Optimize resource pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - name: Optimized Release Archive
         uses: ComunidadAylas/PackSquash-action@v4
         with:
+          artifact_name: '[UNZIP ME] alathra-resourcepack'
           packsquash_version: latest
           options: |
+            # Optimize the pack in the root repository directory.
+            # This is the default value for pack_directory when no PackSquash options are defined
             pack_directory = '.'
-            output_file_path = '/tmp/pack.zip'
-            minify_command_function = true
-            force_include = true
 
+            # Set a custom output file path to work with the generated ZIP file
+            # without needing to download its artifact in a separate step
+            output_file_path = '/tmp/pack.zip'
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
