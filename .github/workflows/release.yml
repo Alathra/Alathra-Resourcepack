@@ -1,0 +1,46 @@
+name: Release resource-pack
+
+on:
+  push:
+    tags:
+      - '**'
+
+jobs:
+  packsquash:
+    name: Optimize resource pack
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: Create LFS file list
+        run: git lfs ls-files --long | cut -d ' ' -f1 | sort > .lfs-assets-id
+
+      - name: LFS Cache
+        uses: actions/cache@v3
+        with:
+          path: .git/lfs/objects
+          key: ${{ runner.os }}-lfs-${{ hashFiles('.lfs-assets-id') }}
+          restore-keys: |
+            ${{ runner.os }}-lfs-
+
+      - name: Git LFS Pull
+        run: git lfs pull
+
+      - name: Optimized Release Archive
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = '.'
+            output_file_path = '/tmp/pack.zip'
+            minify_command_function = true
+            force_include = true
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: /tmp/pack.zip

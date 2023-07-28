@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/bread"
+    },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 14100}, "model": "item/extras/cheese_slice"},
+		{ "predicate": {"custom_model_data": 14101}, "model": "item/extras/cheese_clump"},
+		{ "predicate": {"custom_model_data": 14102}, "model": "item/extras/white_cheese_slice"},
+		{ "predicate": {"custom_model_data": 14103}, "model": "item/extras/white_cheese_clump"},
+		{ "predicate": {"custom_model_data": 14104}, "model": "item/extras/blue_cheese_slice"},
+		{ "predicate": {"custom_model_data": 14105}, "model": "item/extras/blue_cheese_clump"}
+	]
+}
