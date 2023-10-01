@@ -49,7 +49,7 @@ jobs:
         id: semantic_release_info
         uses: jossef/action-semantic-release-info@v2.1.0
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Create optimized archive for release
       - name: Compile Release Archive
@@ -71,3 +71,8 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: /tmp/alathra-${{ steps.semantic_release_info.outputs.git_tag }}.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ${{ steps.semantic_release_info.outputs.git_tag }}
+          draft: false
+          prerelease: false
+          generate_release_notes: true
