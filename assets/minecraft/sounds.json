@@ -1079,7 +1079,7 @@
             "magic:halloween/werewolf"
         ],
         "category": "player"
-    }
+    },
 	"custom.wukongdeath": {
 		"sounds": [
 			    "custom/wukongdeath"
