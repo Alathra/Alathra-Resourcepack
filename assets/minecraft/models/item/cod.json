@@ -11,6 +11,7 @@
         }
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 2800}, "model": "item/extras/shark_meat"}
+        {"predicate": {"custom_model_data": 2800}, "model": "item/extras/shark_meat"},
+        {"predicate": {"custom_model_data": 2801}, "model": "item/extras/calamari"}
     ]
 }

@@ -1079,55 +1079,55 @@
             "magic:halloween/werewolf"
         ],
         "category": "player"
-    },
-    "custom.wukongdeath": {
-        "sounds": [
-            "custom/wukongdeath"
-        ]
-    },
-    "custom.wukonghurt": {
-        "sounds": [
-            "custom/wukonghurt"
-        ]
-    },
-    "custom.wukongjump": {
-        "sounds": [
-            "custom/wukongjump"
-        ]
-    },
-    "custom.wukonglaugh": {
-        "sounds": [
-            "custom/wukonglaugh"
-        ]
-    },
-    "custom.wukongstart": {
-        "sounds": [
-            "custom/wukongstart"
-        ]
-    },
-    "custom.wukonghurt2": {
-        "sounds": [
-            "custom/wukonghurt2"
-        ]
-    },
-    "custom.wukonghurt3": {
-        "sounds": [
-            "custom/wukonghurt3"
-        ]
-    },
-    "custom.wukongswing1": {
-        "sounds": [
-            "custom/wukongswing1"
-        ]
-    },
-    "custom.wukongswing2": {
-        "sounds": [
-            "custom/wukongswing2"
-        ]
-    },
-    "custom.wukongspin": {
-        "sounds": [
-            "custom/wukongspin"
-        ]
     }
+	"custom.wukongdeath": {
+		"sounds": [
+			    "custom/wukongdeath"
+		]
+	},
+        "custom.wukonghurt": {
+		"sounds": [
+			    "custom/wukonghurt"  
+		]
+	},
+        "custom.wukongjump": {
+		"sounds": [
+			    "custom/wukongjump"  
+		]
+	},
+        "custom.wukonglaugh": {
+		"sounds": [
+			    "custom/wukonglaugh"  
+		]
+	},
+        "custom.wukongstart": {
+		"sounds": [
+			    "custom/wukongstart"  
+		]
+	},
+        "custom.wukonghurt2": {
+		"sounds": [
+			    "custom/wukonghurt2"  
+		]
+	},
+        "custom.wukonghurt3": {
+		"sounds": [
+			    "custom/wukonghurt3"  
+		]
+	},
+        "custom.wukongswing1": {
+		"sounds": [
+			    "custom/wukongswing1"  
+		]
+	},
+        "custom.wukongswing2": {
+		"sounds": [
+			    "custom/wukongswing2"  
+		]
+	},
+        "custom.wukongspin": {
+		"sounds": [
+			    "custom/wukongspin"  
+		]
+	}
 }

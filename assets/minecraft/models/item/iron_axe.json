@@ -4,15 +4,15 @@
         "layer0": "minecraft:item/iron_axe"
     },
 	"overrides": [
-		{ "predicate": {"custom_model_data": 230}, "model": "item/weapons/iron_flanged_mace"},
-		{ "predicate": {"custom_model_data": 231}, "model": "item/weapons/iron_morningstar"},
-		{ "predicate": {"custom_model_data": 232}, "model": "item/weapons/iron_warhammer"},
-		{ "predicate": {"custom_model_data": 233}, "model": "item/weapons/iron_hatchet"},
-		{ "predicate": {"custom_model_data": 234}, "model": "item/weapons/iron_battleaxe"},
-		{ "predicate": {"custom_model_data": 235}, "model": "item/weapons/iron_combat_axe"},
-		{ "predicate": {"custom_model_data": 236}, "model": "item/weapons/iron_halberd"},
-		{ "predicate": {"custom_model_data": 237}, "model": "item/weapons/iron_battle_hoe"},
-		{ "predicate": {"custom_model_data": 239}, "model": "item/weapons/iron_scythe"},
-		{ "predicate": {"custom_model_data": 240}, "model": "item/weapons/iron_dane_axe"}
+		{ "predicate": {"custom_model_data": 230}, "model": "item/weapons/iron_axe/iron_flanged_mace"},
+		{ "predicate": {"custom_model_data": 231}, "model": "item/weapons/iron_axe/iron_morningstar"},
+		{ "predicate": {"custom_model_data": 232}, "model": "item/weapons/iron_axe/iron_warhammer"},
+		{ "predicate": {"custom_model_data": 233}, "model": "item/weapons/iron_axe/iron_hatchet"},
+		{ "predicate": {"custom_model_data": 234}, "model": "item/weapons/iron_axe/iron_battleaxe"},
+		{ "predicate": {"custom_model_data": 235}, "model": "item/weapons/iron_axe/iron_combat_axe"},
+		{ "predicate": {"custom_model_data": 236}, "model": "item/weapons/iron_axe/iron_halberd"},
+		{ "predicate": {"custom_model_data": 237}, "model": "item/weapons/iron_axe/iron_battle_hoe"},
+		{ "predicate": {"custom_model_data": 239}, "model": "item/weapons/iron_axe/iron_scythe"},
+		{ "predicate": {"custom_model_data": 240}, "model": "item/weapons/iron_axe/iron_dane_axe"}
 	]
 }

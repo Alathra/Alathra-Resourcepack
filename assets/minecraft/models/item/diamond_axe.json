@@ -4,15 +4,15 @@
         "layer0": "minecraft:item/diamond_axe"
     },
 	"overrides": [
-		{ "predicate": {"custom_model_data": 530}, "model": "item/weapons/diamond_flanged_mace"},
-		{ "predicate": {"custom_model_data": 531}, "model": "item/weapons/diamond_morningstar"},
-		{ "predicate": {"custom_model_data": 532}, "model": "item/weapons/diamond_warhammer"},
-		{ "predicate": {"custom_model_data": 533}, "model": "item/weapons/diamond_hatchet"},
-		{ "predicate": {"custom_model_data": 534}, "model": "item/weapons/diamond_battleaxe"},
-		{ "predicate": {"custom_model_data": 535}, "model": "item/weapons/diamond_combat_axe"},
-		{ "predicate": {"custom_model_data": 536}, "model": "item/weapons/diamond_halberd"},
-		{ "predicate": {"custom_model_data": 537}, "model": "item/weapons/diamond_battle_hoe"},
-		{ "predicate": {"custom_model_data": 539}, "model": "item/weapons/diamond_scythe"},
-		{ "predicate": {"custom_model_data": 540}, "model": "item/weapons/diamond_dane_axe"}
+		{ "predicate": {"custom_model_data": 530}, "model": "item/weapons/diamond_axe/diamond_flanged_mace"},
+		{ "predicate": {"custom_model_data": 531}, "model": "item/weapons/diamond_axe/diamond_morningstar"},
+		{ "predicate": {"custom_model_data": 532}, "model": "item/weapons/diamond_axe/diamond_warhammer"},
+		{ "predicate": {"custom_model_data": 533}, "model": "item/weapons/diamond_axe/diamond_hatchet"},
+		{ "predicate": {"custom_model_data": 534}, "model": "item/weapons/diamond_axe/diamond_battleaxe"},
+		{ "predicate": {"custom_model_data": 535}, "model": "item/weapons/diamond_axe/diamond_combat_axe"},
+		{ "predicate": {"custom_model_data": 536}, "model": "item/weapons/diamond_axe/diamond_halberd"},
+		{ "predicate": {"custom_model_data": 537}, "model": "item/weapons/diamond_axe/diamond_battle_hoe"},
+		{ "predicate": {"custom_model_data": 539}, "model": "item/weapons/diamond_axe/diamond_scythe"},
+		{ "predicate": {"custom_model_data": 540}, "model": "item/weapons/diamond_axe/diamond_dane_axe"}
 	]
 }
