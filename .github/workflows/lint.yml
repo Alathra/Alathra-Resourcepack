@@ -1,10 +1,10 @@
-name: Test resource-pack
+name: Test Linting
 
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
-  test:
-    name: JSON Test
+  json:
+    name: Perform Linting Tests (JSON)
     runs-on: ubuntu-latest
 
     # Only run on PRs if the source branch is on someone else's repo\
@@ -15,5 +15,5 @@ jobs:
         uses: actions/checkout@v4
 
       # Checks JSON for errors
-      - name: Run JSON Lint
+      - name: Perform JSON Linting
         run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
