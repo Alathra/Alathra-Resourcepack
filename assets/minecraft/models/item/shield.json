@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/shield"
+    },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_shield"}
+	]
+}
