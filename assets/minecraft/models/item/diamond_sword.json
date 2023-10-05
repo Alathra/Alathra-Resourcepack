@@ -28,6 +28,7 @@
 		{ "predicate": {"custom_model_data": 349}, "model": "item/weapons/diamond_sword/diamond_dreistkleze"},
 		{ "predicate": {"custom_model_data": 350}, "model": "item/weapons/diamond_sword/diamond_longsword"},
 		{ "predicate": {"custom_model_data": 351}, "model": "item/weapons/diamond_sword/diamond_bone_dagger"},
-		{ "predicate": {"custom_model_data": 352}, "model": "item/weapons/diamond_sword/diamond_cleaver"}
+		{ "predicate": {"custom_model_data": 352}, "model": "item/weapons/diamond_sword/diamond_cleaver"},
+		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_knife"}
 	]
 }
