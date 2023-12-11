@@ -1,27 +1,13 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/potion_overlay",
-    "layer1": "minecraft:item/potion"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 980
-      },
-      "model": "minecraft:item/ruinedbloodwine"
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/potion",
+		"layer1": "minecraft:item/potion_overlay"
     },
-    {
-      "predicate": {
-        "custom_model_data": 981
-      },
-      "model": "minecraft:item/bloodwine"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 982
-      },
-      "model": "minecraft:item/ikarellianbloodwine"
-    }
-  ]
+	"overrides": [
+		{ "predicate": {"custom_model_data": 980}, "model": "item/extras/ruinedbloodwine"},
+		{ "predicate": {"custom_model_data": 981}, "model": "item/extras/bloodwine"},
+		{ "predicate": {"custom_model_data": 982}, "model": "item/extras/ikarellianbloodwine"},
+		{ "predicate": {"custom_model_data": 983}, "model": "item/extras/dragons_cove_gin"}
+	]
 }
