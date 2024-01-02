@@ -28,6 +28,7 @@
 		{ "predicate": {"custom_model_data": 49}, "model": "item/weapons/iron_sword/iron_longsword"},
 		{ "predicate": {"custom_model_data": 50}, "model": "item/weapons/iron_sword/iron_blackfeld_sword"},
 		{ "predicate": {"custom_model_data": 51}, "model": "item/weapons/iron_sword/iron_bone_dagger"},
-		{ "predicate": {"custom_model_data": 52}, "model": "item/weapons/iron_sword/iron_cleaver"}
+		{ "predicate": {"custom_model_data": 52}, "model": "item/weapons/iron_sword/iron_cleaver"},
+		{ "predicate": {"custom_model_data": 53}, "model": "item/weapons/iron_sword/iron_rusteye_cleaver"}
 	]
 }
