@@ -38,6 +38,8 @@
     {"predicate": {"custom_model_data": 14710}, "model": "item/extras/xp_8"},
     {"predicate": {"custom_model_data": 14711}, "model": "item/extras/xp_9"},
     {"predicate": {"custom_model_data": 14712}, "model": "item/extras/xp_10"},
-    {"predicate": {"custom_model_data": 14713}, "model": "item/extras/potato_pouch"}
+    {"predicate": {"custom_model_data": 14713}, "model": "item/extras/potato_pouch"},
+    {"predicate": {"custom_model_data": 14800}, "model": "item/extras/mole_claw"},
+    {"predicate": {"custom_model_data": 14801}, "model": "item/extras/nether_heart"}
   ]
 }
