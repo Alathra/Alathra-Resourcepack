@@ -1,6 +1,7 @@
 {
     "pack": {
         "description": "Alathra Resource Pack DONT_TOUCH_THIS_STRING",
-        "pack_format": 22
+        "pack_format": 22,
+        "supported_formats": {"min_inclusive": 16, "max_inclusive": 22}
     }
 }
