@@ -1,1 +1,44 @@
-{"sources":[{"source":"entity","prefix":"entity/","type":"directory"}]}
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "crunch:equipment/armour/helmets/anvil"
+        },
+        {
+            "type": "single",
+            "resource": "crunch:equipment/armour/helmets/wheel"
+        },
+        {
+            "type": "single",
+            "resource": "crunch:equipment/armour/helmets/trebuchet"
+        },
+        {
+            "type": "single",
+            "resource": "torrent:weapons/oak_planks"
+        },
+		 {
+            "type": "single",
+            "resource": "torrent:weapons/spruce_planks"
+        },
+        {
+            "type": "single",
+            "resource": "torrent:weapons/dark_oak_planks"
+        },
+		 {
+            "type": "single",
+            "resource": "torrent:weapons/birch_planks"
+        },
+        {
+            "type": "single",
+            "resource": "torrent:weapons/white_wool"
+        },
+        {
+            "type": "single",
+            "resource": "torrent:weapons/anvil"
+        },
+        {
+            "type": "single",
+            "resource": "torrent:weapons/iron_block"
+        }
+    ]
+}
