@@ -1,6 +1,11 @@
 {
-    "sources": [
-        {
+	"sources": [
+		{
+			"source": "entity",
+			"prefix":"entity/", 
+			"type":"directory"
+		},
+		{
             "type": "single",
             "resource": "crunch:equipment/armour/helmets/anvil"
         },
@@ -40,5 +45,5 @@
             "type": "single",
             "resource": "torrent:weapons/iron_block"
         }
-    ]
+	]
 }
