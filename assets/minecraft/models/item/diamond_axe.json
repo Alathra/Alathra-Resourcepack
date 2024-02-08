@@ -14,6 +14,7 @@
 		{ "predicate": {"custom_model_data": 537}, "model": "item/weapons/diamond_axe/diamond_battle_hoe"},
 		{ "predicate": {"custom_model_data": 539}, "model": "item/weapons/diamond_axe/diamond_scythe"},
 		{ "predicate": {"custom_model_data": 540}, "model": "item/weapons/diamond_axe/diamond_dane_axe"},
+		{ "predicate": {"custom_model_data": 541}, "model": "item/weapons/diamond_axe/sunray_axe"},
 		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_axe"}
 	]
 }
