@@ -44,7 +44,7 @@
     "overrides": [
         {
             "predicate": {
-                "blocking": 401
+                "blocking": 1
             },
             "model": "item/shield_blocking"
         },
