@@ -22,13 +22,14 @@
         {"predicate":{"custom_model_data":140}, "model": "siegeengines:trebuchet18"},
 	    {"predicate":{"custom_model_data":141}, "model": "siegeengines:cannon"},
 		{"predicate":{"custom_model_data":142}, "model": "siegeengines:navalcannon"},
-		{"predicate":{"custom_model_data":143}, "model": "siegeengines:ballista_2"},
-		{"predicate":{"custom_model_data":144}, "model": "siegeengines:ballista_1"},
-		{"predicate":{"custom_model_data":145}, "model": "siegeengines:ballista"},
-		{"predicate":{"custom_model_data":146}, "model": "siegeengines:mortar-barrel_1"},
-		{"predicate":{"custom_model_data":147}, "model": "siegeengines:mortar-base_1"},
-		{"predicate":{"custom_model_data":148}, "model": "siegeengines:cannon-barrel_1"},
-		{"predicate":{"custom_model_data":149}, "model": "siegeengines:cannon-base_1"}
+		{"predicate":{"custom_model_data":143}, "model": "siegeengines:ballista_3"},
+		{"predicate":{"custom_model_data":144}, "model": "siegeengines:ballista_2"},
+		{"predicate":{"custom_model_data":145}, "model": "siegeengines:ballista_1"},
+		{"predicate":{"custom_model_data":146}, "model": "siegeengines:ballista"},
+		{"predicate":{"custom_model_data":150}, "model": "siegeengines:mortar-barrel_1"},
+		{"predicate":{"custom_model_data":151}, "model": "siegeengines:mortar-base_1"},
+		{"predicate":{"custom_model_data":152}, "model": "siegeengines:cannon-barrel_1"},
+		{"predicate":{"custom_model_data":153}, "model": "siegeengines:cannon-base_1"}
     ]
 
 }
