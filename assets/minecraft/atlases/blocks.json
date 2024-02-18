@@ -1,23 +1,101 @@
-{"sources":[{"source":"entity","prefix":"entity/","type":"directory"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/anvil"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/wheel"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/wheels"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/trebuchet"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/cannonmount"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/carriage"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/navalcannon"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/swivel"},
-{"type":"single","resource":"siegeengines:equipment/armour/helmets/swivelend"},
-{"type":"single","resource":"siegeengines:weapons/anvil"},
-{"type":"single","resource":"siegeengines:weapons/ballista_body"},
-{"type":"single","resource":"siegeengines:weapons/birch_planks"},
-{"type":"single","resource":"siegeengines:weapons/black_concrete"},
-{"type":"single","resource":"siegeengines:weapons/bolt"},
-{"type":"single","resource":"siegeengines:weapons/dark_oak_planks"},
-{"type":"single","resource":"siegeengines:weapons/iron_block"},
-{"type":"single","resource":"siegeengines:weapons/oak_planks"},
-{"type":"single","resource":"siegeengines:weapons/spruce_planks"},
-{"type":"single","resource":"siegeengines:weapons/wheelsteel"},
-{"type":"single","resource":"siegeengines:weapons/wheelwood"},
-{"type":"single","resource":"siegeengines:weapons/ballistamount"},
-{"type":"single","resource":"siegeengines:weapons/white_wool"}]}
+{
+  "sources": [
+    {
+      "source": "entity",
+      "prefix": "entity/",
+      "type": "directory"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/anvil"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/wheel"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/wheels"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/trebuchet"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/cannonmount"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/carriage"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/navalcannon"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/swivelmount"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/swivelwheels"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:equipment/armour/helmets/swivelbody"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/anvil"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/ballista_body"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/birch_planks"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/black_concrete"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/bolt"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/dark_oak_planks"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/iron_block"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/oak_planks"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/spruce_planks"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/wheelsteel"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/wheelwood"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/ballistamount"
+    },
+    {
+      "type": "single",
+      "resource": "siegeengines:weapons/white_wool"
+    }
+  ]
+}
