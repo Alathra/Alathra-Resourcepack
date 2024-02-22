@@ -14,6 +14,7 @@
 		{ "predicate": {"custom_model_data": 237}, "model": "item/weapons/iron_axe/iron_battle_hoe"},
 		{ "predicate": {"custom_model_data": 239}, "model": "item/weapons/iron_axe/iron_scythe"},
 		{ "predicate": {"custom_model_data": 240}, "model": "item/weapons/iron_axe/iron_dane_axe"},
-		{ "predicate": {"custom_model_data": 242}, "model": "item/weapons/iron_axe/iron_parashu"}
+		{ "predicate": {"custom_model_data": 242}, "model": "item/weapons/iron_axe/iron_parashu"},
+		{ "predicate": {"custom_model_data": 243}, "model": "item/weapons/iron_axe/iron_hammer"}
 	]
 }

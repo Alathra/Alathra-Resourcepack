@@ -16,6 +16,7 @@
 		{ "predicate": {"custom_model_data": 540}, "model": "item/weapons/diamond_axe/diamond_dane_axe"},
 		{ "predicate": {"custom_model_data": 541}, "model": "item/weapons/diamond_axe/sunray_axe"},
 		{ "predicate": {"custom_model_data": 542}, "model": "item/weapons/diamond_axe/diamond_parashu"},
+		{ "predicate": {"custom_model_data": 543}, "model": "item/weapons/diamond_axe/diamond_hammer"},
 		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_axe"}
 	]
 }
