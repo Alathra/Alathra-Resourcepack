@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/weapons/diamond/diamond_parashu_remaining",
-		"1": "item/weapons/diamond/diamond_parashu_blade_top",
-		"2": "item/weapons/diamond/diamond_parashu_blade_bottom",
-		"3": "item/weapons/diamond/diamond_parashu",
-		"particle": "item/weapons/diamond/diamond_parashu_remaining"
+		"0": "item/weapons/netherite/netherite_parashu_remaining",
+		"1": "item/weapons/netherite/netherite_parashu_blade_top",
+		"2": "item/weapons/netherite/netherite_parashu_blade_bottom",
+		"3": "item/weapons/netherite/netherite_parashu",
+		"particle": "item/weapons/netherite/netherite_parashu_remaining"
 	},
 	"elements": [
 		{
