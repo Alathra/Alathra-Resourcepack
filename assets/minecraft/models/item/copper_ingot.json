@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/copper_ingot"
   },
     "overrides": [
-      { "predicate": {"custom_model_data": 4}, "model": "item/ingots/silver"},
-      { "predicate": {"custom_model_data": 3}, "model": "item/ingots/tungsten"},
-      { "predicate": {"custom_model_data": 2}, "model": "item/ingots/platinum"},
+      { "predicate": {"custom_model_data": 4}, "model": "item/ingots/silver_ingot"},
+      { "predicate": {"custom_model_data": 3}, "model": "item/ingots/tungsten_ingot"},
+      { "predicate": {"custom_model_data": 2}, "model": "item/ingots/platinum_ingot"},
     ]
 }
