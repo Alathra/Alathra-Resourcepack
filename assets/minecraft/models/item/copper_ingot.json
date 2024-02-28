@@ -6,6 +6,6 @@
     "overrides": [
       { "predicate": {"custom_model_data": 4}, "model": "item/ingots/silver_ingot"},
       { "predicate": {"custom_model_data": 3}, "model": "item/ingots/tungsten_ingot"},
-      { "predicate": {"custom_model_data": 2}, "model": "item/ingots/platinum_ingot"},
+      { "predicate": {"custom_model_data": 2}, "model": "item/ingots/platinum_ingot"}
     ]
 }
