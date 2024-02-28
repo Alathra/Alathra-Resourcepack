@@ -1,0 +1,9 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_apple
+    "overrides": [
+      { "predicate": {"custom_model_data": 420}, "model": "item/food/uncharged_silver_melon"},
+      { "predicate": {"custom_model_data": 421}, "model": "item/food/charged_silver_melon"}
+    ]
+}
