@@ -3,6 +3,7 @@ name: Create Release
 on:
   push:
     branches:
+      - 'main'
       - 'master'
     tags:
       - '**'
@@ -14,7 +15,7 @@ jobs:
     steps:
       # Download files and cache Git LFS files to reduce bandwidth usage
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           lfs: true
@@ -23,7 +24,7 @@ jobs:
         run: git lfs ls-files --long | cut -d ' ' -f1 | sort > .lfs-assets-id
 
       - name: LFS Cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .git/lfs/objects
           key: ${{ runner.os }}-lfs-${{ hashFiles('.lfs-assets-id') }}
@@ -35,7 +36,7 @@ jobs:
 
       # Uploads files so they can be optimized
       - name: Compile Temp Archive
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: temp-resourcepack
           path: |
