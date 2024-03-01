@@ -48,7 +48,7 @@ jobs:
       # Makes the semantic tag variable available for use in workflow
       - name: Get Release Info
         id: semantic_release_info
-        uses: jossef/action-semantic-release-info@v2.1.0
+        uses: jossef/action-semantic-release-info@v3.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
