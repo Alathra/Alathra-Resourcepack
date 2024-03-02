@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"0": "item/weapons/parashu/netherite_parashu_model",
-		"particle": "item/weapons/parashu/netherite_parashu"
+		"0": "item/weapons/parashu/gold_parashu_model",
+		"particle": "item/weapons/parashu/gold_parashu"
 	},
 	"elements": [
 		{
