@@ -1,6 +1,6 @@
 # Alathra-Resourcepack 
 
-This is the server resource-pack of the [Alathra](https://alathra.com) minecraft server.
+This is the server resource-pack of the [Alathra](https://alathra.com) minecraft server. 
 
 ## Credits  
 
