@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/potion_overlay",
+    "layer1": "minecraft:item/potion"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 980
+      },
+      "model": "minecraft:item/extras/ruinedbloodwine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981
+      },
+      "model": "minecraft:item/extras/bloodwine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 982
+      },
+      "model": "minecraft:item/extras/ikarellianbloodwine"
+    }
+  ]
+}
