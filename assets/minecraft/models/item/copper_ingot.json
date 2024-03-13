@@ -6,15 +6,15 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 3
-      },
-      "model": "item/extras/platinum_ingot"
-    },
-    {
-      "predicate": {
         "custom_model_data": 2
       },
       "model": "item/extras/tungsten_ingot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/extras/platinum_ingot"
     },
     {
       "predicate": {
