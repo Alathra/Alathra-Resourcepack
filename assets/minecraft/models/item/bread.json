@@ -10,6 +10,7 @@
 		{ "predicate": {"custom_model_data": 14103}, "model": "item/extras/white_cheese_clump"},
 		{ "predicate": {"custom_model_data": 14104}, "model": "item/extras/blue_cheese_slice"},
 		{ "predicate": {"custom_model_data": 14105}, "model": "item/extras/blue_cheese_clump"},
-		{ "predicate": {"custom_model_data": 14106}, "model": "item/extras/brunost"}
+		{ "predicate": {"custom_model_data": 14106}, "model": "item/extras/brunost"},
+		{ "predicate": {"custom_model_data": 14107}, "model": "item/extras/mozzarella"}
 	]
 }
