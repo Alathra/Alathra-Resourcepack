@@ -23,23 +23,23 @@
       },
       "model": "minecraft:item/extras/ikarellianbloodwine"
     },
-	{
+    {
       "predicate": {
         "custom_model_data": 983
       },
       "model": "minecraft:item/extras/venality_velvet_noir"
     },
-	{
+    {
       "predicate": {
         "custom_model_data": 984
       },
       "model": "minecraft:item/extras/ideskana_bourbon"
     },
-	{
+    {
       "predicate": {
         "custom_model_data": 985
       },
       "model": "minecraft:item/extras/axolian_rum"
-    },
+    }
   ]
 }
