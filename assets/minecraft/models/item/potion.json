@@ -40,6 +40,12 @@
         "custom_model_data": 985
       },
       "model": "minecraft:item/extras/axolian_rum"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 986
+      },
+      "model": "minecraft:item/extras/whiskey_shot"
     }
   ]
 }

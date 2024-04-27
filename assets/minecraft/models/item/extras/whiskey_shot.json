@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/whiskey_shot",
+	"layer1": "minecraft:item/whiskey_shot"
+  }
+}
