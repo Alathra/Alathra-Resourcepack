@@ -29,7 +29,14 @@
 		{"predicate":{"custom_model_data":150}, "model": "siegeengines:mortar-barrel_1"},
 		{"predicate":{"custom_model_data":151}, "model": "siegeengines:mortar-base_1"},
 		{"predicate":{"custom_model_data":152}, "model": "siegeengines:cannon-barrel_1"},
-		{"predicate":{"custom_model_data":153}, "model": "siegeengines:cannon-base_1"}
+		{"predicate":{"custom_model_data":153}, "model": "siegeengines:cannon-base_1"},
+		{"predicate":{"custom_model_data":201}, "model": "block/custom/sunsethues"},
+		{"predicate":{"custom_model_data":202}, "model": "block/custom/strawmanredemption"},
+		{"predicate":{"custom_model_data":203}, "model": "block/custom/thehighseas"},
+		{"predicate":{"custom_model_data":204}, "model": "block/custom/crimsoncap"},
+		{"predicate":{"custom_model_data":205}, "model": "block/custom/periwinklepromises"},
+		{"predicate":{"custom_model_data":206}, "model": "block/custom/alathrabook"},
+		{"predicate":{"custom_model_data":207}, "model": "block/custom/mintmemo"}
     ]
 
 }
