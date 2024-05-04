@@ -46,6 +46,24 @@
         "custom_model_data": 986
       },
       "model": "minecraft:item/extras/whiskey_shot"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 987
+      },
+      "model": "minecraft:item/extras/verdant_nectar"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 988
+      },
+      "model": "minecraft:item/extras/paper_plane"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 989
+      },
+      "model": "minecraft:item/extras/wawa_coffee"
     }
   ]
 }
