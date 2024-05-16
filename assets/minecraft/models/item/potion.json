@@ -64,6 +64,12 @@
         "custom_model_data": 989
       },
       "model": "minecraft:item/extras/wawa_coffee"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 990
+      },
+      "model": "minecraft:item/extras/liquid_power"
     }
   ]
 }
