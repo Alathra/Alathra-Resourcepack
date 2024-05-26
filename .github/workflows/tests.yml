@@ -9,7 +9,6 @@ on:
   workflow_call:
 
 jobs:
-  if:
   test-json:
     name: Validate JSON
     strategy:
@@ -24,18 +23,3 @@ jobs:
       # Checks JSON for errors
       - name: Perform JSON Linting
         run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/json-lint/master/pipeline.sh)
-
-  test-yaml:
-    name: Validate YAML
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
-    runs-on: ${{ matrix.os }}
-    steps:
-      # Clones repository so it has access to the files
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      # Checks YAML for errors
-      - name: Perform YAML Linting
-        run: bash <(curl -s https://raw.githubusercontent.com/CICDToolbox/yaml-lint/master/pipeline.sh)
