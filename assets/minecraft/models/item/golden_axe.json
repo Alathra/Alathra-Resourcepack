@@ -14,6 +14,7 @@
     { "predicate": {"custom_model_data": 737}, "model": "item/weapons/gold_axe/gold_battle_hoe"},
     { "predicate": {"custom_model_data": 739}, "model": "item/weapons/gold_axe/gold_scythe"},
     { "predicate": {"custom_model_data": 740}, "model": "item/weapons/gold_axe/gold_dane_axe"},
-	{ "predicate": {"custom_model_data": 742}, "model": "item/weapons/gold_axe/gold_parashu"}
+	{ "predicate": {"custom_model_data": 742}, "model": "item/weapons/gold_axe/gold_parashu"},
+	{ "predicate": {"custom_model_data": 744}, "model": "item/weapons/gold_axe/gold_guisarme"}
   ]
 }
