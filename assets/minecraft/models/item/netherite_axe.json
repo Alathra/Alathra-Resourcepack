@@ -14,6 +14,7 @@
 		{ "predicate": {"custom_model_data": 437}, "model": "item/weapons/netherite_axe/netherite_battle_hoe"},
 		{ "predicate": {"custom_model_data": 439}, "model": "item/weapons/netherite_axe/netherite_scythe"},
 		{ "predicate": {"custom_model_data": 440}, "model": "item/weapons/netherite_axe/netherite_dane_axe"},
-		{ "predicate": {"custom_model_data": 442}, "model": "item/weapons/netherite_axe/netherite_parashu"}
+		{ "predicate": {"custom_model_data": 442}, "model": "item/weapons/netherite_axe/netherite_parashu"},
+		{ "predicate": {"custom_model_data": 444}, "model": "item/weapons/netherite_axe/netherite_guisarme"}
 	]
 }
