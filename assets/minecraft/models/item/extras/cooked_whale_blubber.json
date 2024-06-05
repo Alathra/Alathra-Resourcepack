@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/fishing/salmon/striped_bass"
+    "layer0": "item/extras/cooked_whale_blubber"
   }
 }

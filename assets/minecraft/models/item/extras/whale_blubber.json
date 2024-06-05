@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/extras/calamari"
+    "layer0": "item/extras/whale_blubber"
   },
   "display": {
     "head": {

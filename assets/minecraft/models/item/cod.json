@@ -3,6 +3,13 @@
     "textures": {
         "layer0": "item/cod"
     },
+    "display": {
+        "head": {
+            "rotation": [ 0, 90, -60 ],
+            "translation": [ -7, -4, -7],
+            "scale":[ 0.8, 0.8, 0.8]
+        }
+    },
     "overrides": [
         {
             "predicate": {
@@ -15,6 +22,12 @@
                 "custom_model_data": 2801
             },
             "model": "item/extras/calamari"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2802
+            },
+            "model": "item/extras/whale_blubber"
         },
         {
             "predicate": {

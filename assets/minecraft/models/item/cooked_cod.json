@@ -4,7 +4,23 @@
     "layer0": "minecraft:item/cooked_cod"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 2800}, "model": "item/extras/cooked_shark_meat"},
-    {"predicate": {"custom_model_data": 2801}, "model": "item/extras/cooked_calamari"}
+    {
+      "predicate": {
+        "custom_model_data": 2800
+      },
+      "model": "item/extras/cooked_shark_meat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2801
+      },
+      "model": "item/extras/cooked_calamari"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2802
+      },
+      "model" : "item/extras/cooked_whale_blubber"
+    }
   ]
 }
