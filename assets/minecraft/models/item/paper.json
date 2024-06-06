@@ -4,43 +4,239 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 14600}, "model": "item/extras/abyssal_stone"},
-    {"predicate": {"custom_model_data": 14601}, "model": "item/extras/ancient_wood"},
-    {"predicate": {"custom_model_data": 14602}, "model": "item/extras/baer_steel"},
-    {"predicate": {"custom_model_data": 14603}, "model": "item/extras/blessed_opal"},
-    {"predicate": {"custom_model_data": 14604}, "model": "item/extras/elustone"},
-    {"predicate": {"custom_model_data": 14605}, "model": "item/extras/fyada"},
-    {"predicate": {"custom_model_data": 14606}, "model": "item/extras/luminous_bismuth"},
-    {"predicate": {"custom_model_data": 14607}, "model": "item/extras/magikite"},
-    {"predicate": {"custom_model_data": 14608}, "model": "item/extras/quicksilver"},
-    {"predicate": {"custom_model_data": 14609}, "model": "item/extras/rose_quartz"},
-    {"predicate": {"custom_model_data": 14610}, "model": "item/extras/rotwud"},
-    {"predicate": {"custom_model_data": 14611}, "model": "item/extras/saelz"},
-    {"predicate": {"custom_model_data": 14612}, "model": "item/extras/solar_gold"},
-    {"predicate": {"custom_model_data": 14613}, "model": "item/extras/tetracide"},
-    {"predicate": {"custom_model_data": 14614}, "model": "item/extras/velotite"},
-    {"predicate": {"custom_model_data": 14615}, "model": "item/extras/wild_citrine"},
-    {"predicate": {"custom_model_data": 14616}, "model": "item/extras/forest_rune"},
-    {"predicate": {"custom_model_data": 14617}, "model": "item/extras/mountain_rune"},
-    {"predicate": {"custom_model_data": 14618}, "model": "item/extras/tropical_rune"},
-    {"predicate": {"custom_model_data": 14619}, "model": "item/extras/tundra_rune"},
-    {"predicate": {"custom_model_data": 14620}, "model": "item/extras/self_esteemite"},
-    {"predicate": {"custom_model_data": 14700}, "model": "item/extras/beetroot_pouch"},
-    {"predicate": {"custom_model_data": 14701}, "model": "item/extras/carrot_pouch"},
-    {"predicate": {"custom_model_data": 14702}, "model": "item/extras/tiny_xp_pouch"},
-    {"predicate": {"custom_model_data": 14703}, "model": "item/extras/xp_1"},
-    {"predicate": {"custom_model_data": 14704}, "model": "item/extras/xp_2"},
-    {"predicate": {"custom_model_data": 14705}, "model": "item/extras/xp_3"},
-    {"predicate": {"custom_model_data": 14706}, "model": "item/extras/xp_4"},
-    {"predicate": {"custom_model_data": 14707}, "model": "item/extras/xp_5"},
-    {"predicate": {"custom_model_data": 14708}, "model": "item/extras/xp_6"},
-    {"predicate": {"custom_model_data": 14709}, "model": "item/extras/xp_7"},
-    {"predicate": {"custom_model_data": 14710}, "model": "item/extras/xp_8"},
-    {"predicate": {"custom_model_data": 14711}, "model": "item/extras/xp_9"},
-    {"predicate": {"custom_model_data": 14712}, "model": "item/extras/xp_10"},
-    {"predicate": {"custom_model_data": 14713}, "model": "item/extras/potato_pouch"},
-    {"predicate": {"custom_model_data": 14800}, "model": "item/extras/mole_claw"},
-    {"predicate": {"custom_model_data": 14801}, "model": "item/extras/nether_heart"},
-	{"predicate": {"custom_model_data": 14802}, "model": "item/extras/ancient_wool"}
+    {
+      "predicate": {
+        "custom_model_data": 14600
+      },
+      "model": "item/extras/abyssal_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14601
+      },
+      "model": "item/extras/ancient_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14602
+      },
+      "model": "item/extras/baer_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14603
+      },
+      "model": "item/extras/blessed_opal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14604
+      },
+      "model": "item/extras/elustone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14605
+      },
+      "model": "item/extras/fyada"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14606
+      },
+      "model": "item/extras/luminous_bismuth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14607
+      },
+      "model": "item/extras/magikite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14608
+      },
+      "model": "item/extras/quicksilver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14609
+      },
+      "model": "item/extras/rose_quartz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14610
+      },
+      "model": "item/extras/rotwud"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14611
+      },
+      "model": "item/extras/saelz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14612
+      },
+      "model": "item/extras/solar_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14613
+      },
+      "model": "item/extras/tetracide"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14614
+      },
+      "model": "item/extras/velotite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14615
+      },
+      "model": "item/extras/wild_citrine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14616
+      },
+      "model": "item/extras/forest_rune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14617
+      },
+      "model": "item/extras/mountain_rune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14618
+      },
+      "model": "item/extras/tropical_rune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14619
+      },
+      "model": "item/extras/tundra_rune"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14620
+      },
+      "model": "item/extras/self_esteemite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14700
+      },
+      "model": "item/extras/beetroot_pouch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14701
+      },
+      "model": "item/extras/carrot_pouch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14702
+      },
+      "model": "item/extras/tiny_xp_pouch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14703
+      },
+      "model": "item/extras/xp_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14704
+      },
+      "model": "item/extras/xp_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14705
+      },
+      "model": "item/extras/xp_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14706
+      },
+      "model": "item/extras/xp_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14707
+      },
+      "model": "item/extras/xp_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14708
+      },
+      "model": "item/extras/xp_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14709
+      },
+      "model": "item/extras/xp_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14710
+      },
+      "model": "item/extras/xp_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14711
+      },
+      "model": "item/extras/xp_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14712
+      },
+      "model": "item/extras/xp_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14713
+      },
+      "model": "item/extras/potato_pouch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14800
+      },
+      "model": "item/extras/mole_claw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14801
+      },
+      "model": "item/extras/nether_heart"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 14802
+      },
+      "model": "item/extras/ancient_wool"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14803
+      },
+      "model": "item/extras/cold_blaze_rod"
+    }
   ]
 }
