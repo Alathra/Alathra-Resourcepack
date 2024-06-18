@@ -18,9 +18,17 @@
         },
         {
             "predicate": {
+                "cast": 0,
                 "custom_model_data": 47100
             },
             "model": "item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 47100
+            },
+            "model": "item/fishing_rod_cast"
         }
     ]
 }
