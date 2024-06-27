@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/wooden_sword"
-  },
-  "overrides": [
-    { "predicate": {"custom_model_data": 1051}, "model": "item/weapons/wooden_sword/wooden_bone_dagger"}
-  ]
-}

@@ -1,4 +1,0 @@
-{ "custom.fallenknight.statuefall": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenravager/armorfall_statue" } ], "subtitle": "Empty armor falls", "attenuation_distance": "1"  }, 
-"custom.fallenknight.spawnb": { "category": "hostile", "sounds": [ { "name": "custom/mobs/fallenknight/spawnfknight" } ], "subtitle": "Empty armor falls", "attenuation_distance": "1"  }, 
-"custom.spell.swordclash": { "category": "hostile", "sounds": [ { "name": "custom/spell/fallenhero/swordclash1" }, { "name": "custom/spell/fallenhero/swordclash2" } ], "subtitle": "Metal clash" }
-}
