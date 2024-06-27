@@ -1,0 +1,36 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_sword"
+    },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 128}, "model": "item/weapons/netherite_sword/netherite_giant_sword"},
+		{ "predicate": {"custom_model_data": 129}, "model": "item/weapons/netherite_sword/netherite_antler_staff"},
+		{ "predicate": {"custom_model_data": 130}, "model": "item/weapons/netherite_sword/netherite_katana"},
+		{ "predicate": {"custom_model_data": 131}, "model": "item/weapons/netherite_sword/netherite_spear"},
+		{ "predicate": {"custom_model_data": 132}, "model": "item/weapons/netherite_sword/netherite_naginata"},
+		{ "predicate": {"custom_model_data": 133}, "model": "item/weapons/netherite_sword/netherite_pike"},
+		{ "predicate": {"custom_model_data": 134}, "model": "item/weapons/netherite_sword/netherite_dagger"},
+		{ "predicate": {"custom_model_data": 135}, "model": "item/weapons/netherite_sword/netherite_zweihander"},
+		{ "predicate": {"custom_model_data": 136}, "model": "item/weapons/netherite_sword/netherite_shortsword"},
+		{ "predicate": {"custom_model_data": 137}, "model": "item/weapons/netherite_sword/netherite_quarterstaff"},
+		{ "predicate": {"custom_model_data": 138}, "model": "item/weapons/netherite_sword/netherite_kunai"},
+		{ "predicate": {"custom_model_data": 139}, "model": "item/weapons/netherite_sword/netherite_sabre"},
+		{ "predicate": {"custom_model_data": 140}, "model": "item/weapons/netherite_sword/netherite_twin_blade"},
+		{ "predicate": {"custom_model_data": 141}, "model": "item/weapons/netherite_sword/netherite_scimitar"},
+		{ "predicate": {"custom_model_data": 142}, "model": "item/weapons/netherite_sword/netherite_rapier"},
+		{ "predicate": {"custom_model_data": 143}, "model": "item/weapons/netherite_sword/netherite_hook"},
+		{ "predicate": {"custom_model_data": 144}, "model": "item/weapons/netherite_sword/netherite_mace"},
+		{ "predicate": {"custom_model_data": 145}, "model": "item/weapons/netherite_sword/netherite_greatsword"},
+		{ "predicate": {"custom_model_data": 146}, "model": "item/weapons/netherite_sword/netherite_bident"},
+		{ "predicate": {"custom_model_data": 147}, "model": "item/weapons/netherite_sword/netherite_gladius"},
+		{ "predicate": {"custom_model_data": 148}, "model": "item/weapons/netherite_sword/netherite_blackfeld_sword"},
+		{ "predicate": {"custom_model_data": 149}, "model": "item/weapons/netherite_sword/netherite_dreistkleze"},
+		{ "predicate": {"custom_model_data": 150}, "model": "item/weapons/netherite_sword/netherite_longsword"},
+		{ "predicate": {"custom_model_data": 151}, "model": "item/weapons/netherite_sword/netherite_bone_dagger"},
+		{ "predicate": {"custom_model_data": 152}, "model": "item/weapons/netherite_sword/netherite_cleaver"},
+		{ "predicate": {"custom_model_data": 153}, "model": "item/weapons/netherite_sword/netherite_rusteye_cleaver"},
+		{ "predicate": {"custom_model_data": 154}, "model": "item/weapons/netherite_sword/netherite_slasher"},
+		{ "predicate": {"custom_model_data": 155}, "model": "item/weapons/netherite_sword/netherite_rusteye_partisan"}
+	]
+}

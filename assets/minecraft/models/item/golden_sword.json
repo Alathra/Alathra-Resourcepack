@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 629}, "model": "item/weapons/gold_sword/gold_giant_sword"},
+    { "predicate": {"custom_model_data": 630}, "model": "item/weapons/gold_sword/gold_katana"},
+    { "predicate": {"custom_model_data": 631}, "model": "item/weapons/gold_sword/gold_spear"},
+    { "predicate": {"custom_model_data": 632}, "model": "item/weapons/gold_sword/gold_naginata"},
+    { "predicate": {"custom_model_data": 633}, "model": "item/weapons/gold_sword/gold_pike"},
+    { "predicate": {"custom_model_data": 634}, "model": "item/weapons/gold_sword/gold_dagger"},
+    { "predicate": {"custom_model_data": 635}, "model": "item/weapons/gold_sword/gold_zweihander"},
+    { "predicate": {"custom_model_data": 636}, "model": "item/weapons/gold_sword/gold_shortsword"},
+    { "predicate": {"custom_model_data": 637}, "model": "item/weapons/gold_sword/gold_quarterstaff"},
+    { "predicate": {"custom_model_data": 638}, "model": "item/weapons/gold_sword/gold_kunai"},
+    { "predicate": {"custom_model_data": 639}, "model": "item/weapons/gold_sword/gold_sabre"},
+    { "predicate": {"custom_model_data": 640}, "model": "item/weapons/gold_sword/gold_twin_blade"},
+    { "predicate": {"custom_model_data": 641}, "model": "item/weapons/gold_sword/gold_scimitar"},
+    { "predicate": {"custom_model_data": 642}, "model": "item/weapons/gold_sword/gold_rapier"},
+    { "predicate": {"custom_model_data": 643}, "model": "item/weapons/gold_sword/gold_hook"},
+    { "predicate": {"custom_model_data": 644}, "model": "item/weapons/gold_sword/gold_mace"},
+    { "predicate": {"custom_model_data": 645}, "model": "item/weapons/gold_sword/gold_greatsword"},
+    { "predicate": {"custom_model_data": 646}, "model": "item/weapons/gold_sword/gold_bident"},
+    { "predicate": {"custom_model_data": 647}, "model": "item/weapons/gold_sword/gold_gladius"},
+    { "predicate": {"custom_model_data": 648}, "model": "item/weapons/gold_sword/gold_blackfeld_sword"},
+    { "predicate": {"custom_model_data": 649}, "model": "item/weapons/gold_sword/gold_dreistkleze"},
+    { "predicate": {"custom_model_data": 650}, "model": "item/weapons/gold_sword/gold_longsword"},
+    { "predicate": {"custom_model_data": 651}, "model": "item/weapons/gold_sword/gold_bone_dagger"},
+	{ "predicate": {"custom_model_data": 652}, "model": "item/weapons/gold_sword/gold_cleaver"},
+	{ "predicate": {"custom_model_data": 654}, "model": "item/weapons/gold_sword/gold_slasher"}
+  ]
+}

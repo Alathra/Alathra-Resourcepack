@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/weapons/diamond/diamond_combat_axe"
+    }
+}

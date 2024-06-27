@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_axe"
+    },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 430}, "model": "item/weapons/netherite_axe/netherite_flanged_mace"},
+		{ "predicate": {"custom_model_data": 431}, "model": "item/weapons/netherite_axe/netherite_morningstar"},
+		{ "predicate": {"custom_model_data": 432}, "model": "item/weapons/netherite_axe/netherite_warhammer"},
+		{ "predicate": {"custom_model_data": 433}, "model": "item/weapons/netherite_axe/netherite_hatchet"},
+		{ "predicate": {"custom_model_data": 434}, "model": "item/weapons/netherite_axe/netherite_battleaxe"},
+		{ "predicate": {"custom_model_data": 435}, "model": "item/weapons/netherite_axe/netherite_combat_axe"},
+		{ "predicate": {"custom_model_data": 436}, "model": "item/weapons/netherite_axe/netherite_halberd"},
+		{ "predicate": {"custom_model_data": 437}, "model": "item/weapons/netherite_axe/netherite_battle_hoe"},
+		{ "predicate": {"custom_model_data": 439}, "model": "item/weapons/netherite_axe/netherite_scythe"},
+		{ "predicate": {"custom_model_data": 440}, "model": "item/weapons/netherite_axe/netherite_dane_axe"},
+		{ "predicate": {"custom_model_data": 442}, "model": "item/weapons/netherite_axe/netherite_parashu"},
+		{ "predicate": {"custom_model_data": 444}, "model": "item/weapons/netherite_axe/netherite_guisarme"}
+	]
+}
