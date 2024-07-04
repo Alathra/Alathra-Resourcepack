@@ -70,6 +70,12 @@
         "custom_model_data": 990
       },
       "model": "minecraft:item/extras/liquid_power"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 991
+      },
+      "model": "minecraft:item/extras/sculk_elixir"
     }
   ]
 }
