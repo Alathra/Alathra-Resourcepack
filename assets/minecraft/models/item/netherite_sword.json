@@ -4,6 +4,7 @@
         "layer0": "minecraft:item/netherite_sword"
     },
 	"overrides": [
+		{ "predicate": {"custom_model_data": 50}, "model": "item/relics/zephyrs_hand"},
 		{ "predicate": {"custom_model_data": 128}, "model": "item/weapons/netherite_sword/netherite_giant_sword"},
 		{ "predicate": {"custom_model_data": 129}, "model": "item/weapons/netherite_sword/netherite_antler_staff"},
 		{ "predicate": {"custom_model_data": 130}, "model": "item/weapons/netherite_sword/netherite_katana"},
