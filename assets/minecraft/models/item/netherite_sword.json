@@ -32,6 +32,7 @@
 		{ "predicate": {"custom_model_data": 152}, "model": "item/weapons/netherite_sword/netherite_cleaver"},
 		{ "predicate": {"custom_model_data": 153}, "model": "item/weapons/netherite_sword/netherite_rusteye_cleaver"},
 		{ "predicate": {"custom_model_data": 154}, "model": "item/weapons/netherite_sword/netherite_slasher"},
-		{ "predicate": {"custom_model_data": 155}, "model": "item/weapons/netherite_sword/netherite_rusteye_partisan"}
+		{ "predicate": {"custom_model_data": 155}, "model": "item/weapons/netherite_sword/netherite_rusteye_partisan"},
+		{ "predicate": {"custom_model_data": 156}, "model": "item/weapons/netherite_sword/netherite_honshu"}
 	]
 }
