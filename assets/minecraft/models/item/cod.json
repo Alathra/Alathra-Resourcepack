@@ -66,96 +66,6 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 80001
-			},
-			"model": "fish:item/cod/6"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 80002
-			},
-			"model": "fish:item/cod/7"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 80003
-			},
-			"model": "fish:item/cod/8"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 80004
-			},
-			"model": "fish:item/cod/9"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 80005
-			},
-			"model": "fish:item/cod/10"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90001
-			},
-			"model": "fish:item/cod/11"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90002
-			},
-			"model": "fish:item/cod/12"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90003
-			},
-			"model": "fish:item/cod/13"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90004
-			},
-			"model": "fish:item/cod/14"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90005
-			},
-			"model": "fish:item/cod/15"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90011
-			},
-			"model": "fish:item/cod/16"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90012
-			},
-			"model": "fish:item/cod/17"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90013
-			},
-			"model": "fish:item/cod/18"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90014
-			},
-			"model": "fish:item/cod/19"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 90015
-			},
-			"model": "fish:item/cod/20"
-		},
-		{
-			"predicate": {
 				"custom_model_data": 70101
 			},
 			"model": "fish:item/cod/21"
@@ -213,6 +123,96 @@
 				"custom_model_data": 70205
 			},
 			"model": "fish:item/cod/30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75001
+			},
+			"model": "fish:item/cod/6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75002
+			},
+			"model": "fish:item/cod/7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75003
+			},
+			"model": "fish:item/cod/8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75004
+			},
+			"model": "fish:item/cod/9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75005
+			},
+			"model": "fish:item/cod/10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76001
+			},
+			"model": "fish:item/cod/11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76002
+			},
+			"model": "fish:item/cod/12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76003
+			},
+			"model": "fish:item/cod/13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76004
+			},
+			"model": "fish:item/cod/14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76005
+			},
+			"model": "fish:item/cod/15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76011
+			},
+			"model": "fish:item/cod/16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76012
+			},
+			"model": "fish:item/cod/17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76013
+			},
+			"model": "fish:item/cod/18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76014
+			},
+			"model": "fish:item/cod/19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76015
+			},
+			"model": "fish:item/cod/20"
 		}
 	]
 }
