@@ -4,6 +4,10 @@
 		"layer0": "minecraft:item/salmon"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 47000},"model": "item/fishing/salmon/bluegill" },
+		{ "predicate": { "custom_model_data": 47001}, "model": "item/fishing/salmon/common_carp" },
+		{ "predicate": { "custom_model_data": 47002}, "model": "item/fishing/salmon/channel_catfish"},
+		{ "predicate": { "custom_model_data": 47003}, "model": "item/fishing/salmon/striped_bass"},
 		{ "predicate": { "custom_model_data": 70004}, "model": "fish:item/cod/4" },
 		{ "predicate": { "custom_model_data": 70005}, "model": "fish:item/cod/5" },
 		{ "predicate": { "custom_model_data": 70104}, "model": "fish:item/cod/24" },
