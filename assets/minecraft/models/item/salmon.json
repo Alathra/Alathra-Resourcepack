@@ -1,32 +1,20 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/salmon"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 47000
-      },
-      "model": "item/fishing/salmon/bluegill"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 47001
-      },
-      "model": "item/fishing/salmon/common_carp"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 47002
-      },
-      "model": "item/fishing/salmon/channel_catfish"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 47003
-      },
-      "model": "item/fishing/salmon/striped_bass"
-    }
-  ]
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/salmon"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 70004}, "model": "fish:item/cod/4" },
+		{ "predicate": { "custom_model_data": 70005}, "model": "fish:item/cod/5" },
+		{ "predicate": { "custom_model_data": 70104}, "model": "fish:item/cod/24" },
+		{ "predicate": { "custom_model_data": 70105}, "model": "fish:item/cod/25" },
+		{ "predicate": { "custom_model_data": 70204}, "model": "fish:item/cod/29" },
+		{ "predicate": { "custom_model_data": 70205}, "model": "fish:item/cod/30" },
+		{ "predicate": { "custom_model_data": 75004}, "model": "fish:item/cod/9" },
+		{ "predicate": { "custom_model_data": 75005}, "model": "fish:item/cod/10" },
+		{ "predicate": { "custom_model_data": 76004}, "model": "fish:item/cod/14" },
+		{ "predicate": { "custom_model_data": 76005}, "model": "fish:item/cod/15" },
+		{ "predicate": { "custom_model_data": 76014}, "model": "fish:item/cod/19" },
+		{ "predicate": { "custom_model_data": 76015}, "model": "fish:item/cod/20" }
+	]
 }
