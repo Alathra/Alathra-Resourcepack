@@ -226,7 +226,7 @@
       },
       "model": "item/extras/nether_heart"
     },
-	{
+    {
       "predicate": {
         "custom_model_data": 14802
       },
@@ -240,23 +240,21 @@
     },
     {
       "predicate": {
-	"custom_model_data": 50001
+        "custom_model_data": 50001
       },
       "model": "fish:item/bait/1"
-    }
+    },
     {
       "predicate": {
         "custom_model_data": 50002
       },
       "model": "fish:item/bait/2"
-    }
-    
+    },
     {
       "predicate": {
         "custom_model_data": 50003
       },
       "model": "fish:item/bait/3"
     }
-
   ]
 }
