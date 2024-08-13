@@ -1,6 +1,6 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "fish:item/dough_baits"
-	}
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fish:item/dough_baits"
+  }
 }
