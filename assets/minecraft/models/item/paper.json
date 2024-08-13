@@ -237,6 +237,26 @@
         "custom_model_data": 14803
       },
       "model": "item/extras/cold_blaze_rod"
+    },
+    {
+	    "predicate": {
+		    "custom_model_data": 50001
+	    },
+	    "model": "fish:item/bait/1"
     }
+    {
+	    "predicate": {
+		    "custom_model_data": 50002
+	    },
+	    "model": "fish:item/bait/2"
+    }
+    
+    {
+	    "predicate": {
+		    "custom_model_data": 50003
+	    },
+	    "model": "fish:item/bait/3"
+    }
+
   ]
 }
