@@ -255,6 +255,12 @@
         "custom_model_data": 50003
       },
       "model": "fish:item/bait/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50004
+      },
+      "model": "fish:item/bait/4"
     }
   ]
 }
