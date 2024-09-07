@@ -36,7 +36,11 @@
 		{"predicate":{"custom_model_data":204}, "model": "block/custom/crimsoncap"},
 		{"predicate":{"custom_model_data":205}, "model": "block/custom/periwinklepromises"},
 		{"predicate":{"custom_model_data":206}, "model": "block/custom/alathrabook"},
-		{"predicate":{"custom_model_data":207}, "model": "block/custom/mintmemo"}
+		{"predicate":{"custom_model_data":207}, "model": "block/custom/gentlemanspride"},
+		{"predicate":{"custom_model_data":208}, "model": "block/custom/hornedhelmet"},
+		{"predicate":{"custom_model_data":209}, "model": "block/custom/mightystache"},
+		{"predicate":{"custom_model_data":210}, "model": "block/custom/rulerscrown"},
+		{"predicate":{"custom_model_data":211}, "model": "block/custom/wreathofsuns"}
     ]
 
 }

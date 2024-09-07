@@ -5,6 +5,8 @@
  },
  
  "overrides": [
-  {"predicate":{"custom_model_data":201}, "model": "block/custom/distinguishedsoul"}
+  {"predicate":{"custom_model_data":201}, "model": "block/custom/distinguishedsoul"},
+  {"predicate":{"custom_model_data":202}, "model": "block/custom/rulerscepter"},
+  {"predicate":{"custom_model_data":203}, "model": "block/custom/wizardsstaff"}
  ]
 }
