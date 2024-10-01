@@ -28,6 +28,7 @@
     { "predicate": {"custom_model_data": 650}, "model": "item/weapons/gold_sword/gold_longsword"},
     { "predicate": {"custom_model_data": 651}, "model": "item/weapons/gold_sword/gold_bone_dagger"},
 	{ "predicate": {"custom_model_data": 652}, "model": "item/weapons/gold_sword/gold_cleaver"},
-	{ "predicate": {"custom_model_data": 654}, "model": "item/weapons/gold_sword/gold_slasher"}
+	{ "predicate": {"custom_model_data": 654}, "model": "item/weapons/gold_sword/gold_slasher"},
+	{ "predicate": {"custom_model_data": 655}, "model": "item/weapons/gold_sword/gold_lance"}
   ]
 }

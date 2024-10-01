@@ -34,6 +34,7 @@
 		{ "predicate": {"custom_model_data": 355}, "model": "item/weapons/diamond_sword/diamond_rusteye_partisan"},
 		{ "predicate": {"custom_model_data": 356}, "model": "item/weapons/diamond_sword/dark_iron_sword"},
 		{ "predicate": {"custom_model_data": 357}, "model": "item/weapons/diamond_sword/kitsune_gohei"},
+		{ "predicate": {"custom_model_data": 358}, "model": "item/weapons/diamond_sword/diamond_lance"},
 		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_knife"}
 	]
 }
