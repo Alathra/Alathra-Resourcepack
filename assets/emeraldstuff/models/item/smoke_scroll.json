@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "emerald_stuff:item/HealScroll"
+    "layer0": "emeraldstuff:item/smoke_scroll"
   }
 }

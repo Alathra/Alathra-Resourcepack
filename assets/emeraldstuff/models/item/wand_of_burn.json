@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "emerald_stuff:item/GlowingScroll"
+    "layer0": "emeraldstuff:item/wand_of_burn"
   }
 }

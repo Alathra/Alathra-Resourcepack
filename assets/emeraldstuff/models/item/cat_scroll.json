@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "emerald_stuff:item/FoxScroll"
+    "layer0": "emeraldstuff:item/cat_scroll"
   }
 }

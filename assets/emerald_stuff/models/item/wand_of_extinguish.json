@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "emerald_stuff:item/wand_of_extinguish"
-  }
-}
