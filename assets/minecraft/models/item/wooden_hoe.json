@@ -25,7 +25,7 @@
 	{"predicate": {"custom_model_data": 20001}, "model": "emeraldstuff:item/nightvision_scroll"},
 	{"predicate": {"custom_model_data": 20002}, "model": "emeraldstuff:item/glowing_scroll"},
 	{"predicate": {"custom_model_data": 20003}, "model": "emeraldstuff:item/levitation_scroll"},
-	{"predicate": {"custom_model_data": 20004}, "model": "emeraldstuff:item/Explosion_scroll"},
+	{"predicate": {"custom_model_data": 20004}, "model": "emeraldstuff:item/explosion_scroll"},
 	{"predicate": {"custom_model_data": 20005}, "model": "emeraldstuff:item/cleanse_scroll"},
 	{"predicate": {"custom_model_data": 20006}, "model": "emeraldstuff:item/doppleganger_scroll"},
 	{"predicate": {"custom_model_data": 20007}, "model": "emeraldstuff:item/cat_scroll"},
