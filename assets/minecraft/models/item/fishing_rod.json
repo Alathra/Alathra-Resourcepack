@@ -29,6 +29,20 @@
                 "custom_model_data": 47100
             },
             "model": "item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "cast": 0,
+                "custom_model_data": 50000
+            },
+            "model": "emeraldstuff:item/emerald_rod_uncast"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 50000
+            },
+            "model": "emeraldstuff:item/emerald_rod_cast"
         }
     ]
 }
