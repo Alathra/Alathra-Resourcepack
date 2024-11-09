@@ -261,6 +261,12 @@
         "custom_model_data": 50004
       },
       "model": "fish:item/bait/4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50005
+      },
+      "model": "emeraldstuff:item/sparkly_platinum_bait"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "emeraldstuff:item/emerald_rod_cast"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, -90, -40 ],
+      "translation": [ 0, 5, 3 ]
+    }
+  }
+}
