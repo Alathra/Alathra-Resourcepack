@@ -216,6 +216,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 14714
+      },
+      "model": "item/extras/berry_pouch"
+    },
+    {
+      "predicate": {
         "custom_model_data": 14800
       },
       "model": "item/extras/mole_claw"
