@@ -18,6 +18,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 12002
+      },
+      "model": "item/food/knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12003
+      },
+      "model": "item/food/mortar_and_pestle"
+    },
+    {
+      "predicate": {
         "custom_model_data": 14600
       },
       "model": "item/extras/abyssal_stone"
