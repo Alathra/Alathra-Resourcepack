@@ -40,7 +40,12 @@
 		{"predicate":{"custom_model_data":208}, "model": "block/custom/hornedhelmet"},
 		{"predicate":{"custom_model_data":209}, "model": "block/custom/mightystache"},
 		{"predicate":{"custom_model_data":210}, "model": "block/custom/rulerscrown"},
-		{"predicate":{"custom_model_data":211}, "model": "block/custom/wreathofsuns"}
+		{"predicate":{"custom_model_data":211}, "model": "block/custom/wreathofsuns"},
+    {"predicate":{"custom_model_data":212}, "model": "block/custom/dwarfhelmet"},
+    {"predicate":{"custom_model_data":213}, "model": "block/custom/felthat"},
+    {"predicate":{"custom_model_data":214}, "model": "block/custom/holidaycheer"},
+    {"predicate":{"custom_model_data":215}, "model": "block/custom/hoplitehelm"},
+    {"predicate":{"custom_model_data":216}, "model": "block/custom/thepeoplestiara"}
     ]
 
 }
