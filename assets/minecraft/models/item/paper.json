@@ -6,6 +6,18 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 12000
+      },
+      "model": "item/food/cooking_pot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12001
+      },
+      "model": "item/food/frying_pan"
+    },
+    {
+      "predicate": {
         "custom_model_data": 14600
       },
       "model": "item/extras/abyssal_stone"
