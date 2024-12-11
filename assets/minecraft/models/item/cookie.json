@@ -54,7 +54,7 @@
     {"predicate": {"custom_model_data": 13547}, "model": "item/food/chicken_and_dumplings"},
     {"predicate": {"custom_model_data": 13548}, "model": "item/food/chicken_and_noodles"},
     {"predicate": {"custom_model_data": 13549}, "model": "item/food/chile_pepper"},
-    {"predicate": {"custom_model_data": 13550}, "model": "item/food/chili_rellano"},
+    {"predicate": {"custom_model_data": 13550}, "model": "item/food/chili_relleno"},
     {"predicate": {"custom_model_data": 13551}, "model": "item/food/chocolate_ice_cream"},
     {"predicate": {"custom_model_data": 13552}, "model": "item/food/chocolate_milkshake"},
     {"predicate": {"custom_model_data": 13553}, "model": "item/food/churros"},
