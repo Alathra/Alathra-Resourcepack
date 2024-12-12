@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/food/chili_rellano"
+        "layer0": "item/food/chili_relleno"
     }
 }
