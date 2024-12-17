@@ -76,6 +76,12 @@
         "custom_model_data": 991
       },
       "model": "minecraft:item/extras/sculk_elixir"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 992
+      },
+      "model": "minecraft:item/food/warm_milk"
     }
   ]
 }
