@@ -96,6 +96,7 @@
     {"predicate": {"custom_model_data": 13589}, "model": "item/food/ajvar"},
     {"predicate": {"custom_model_data": 13590}, "model": "item/food/cornish_pasty"},
     {"predicate": {"custom_model_data": 13591}, "model": "item/food/bacon_cheeseburger"},
+    {"predicate": {"custom_model_data": 13592}, "model": "item/food/cooked_bacon"},
 
     
 
