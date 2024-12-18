@@ -19,6 +19,7 @@
 		{ "predicate": {"custom_model_data": 543}, "model": "item/weapons/diamond_axe/diamond_hammer"},
 		{ "predicate": {"custom_model_data": 544}, "model": "item/weapons/diamond_axe/diamond_guisarme"},
 		{ "predicate": {"custom_model_data": 545}, "model": "item/weapons/diamond_axe/eric_hammer"},
+		{ "predicate": {"custom_model_data": 2000}, "model": "item/tools/diamond/christmas_chopper"},
 		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_axe"}
 	]
 }

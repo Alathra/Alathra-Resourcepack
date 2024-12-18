@@ -37,6 +37,8 @@
 		{ "predicate": {"custom_model_data": 358}, "model": "item/weapons/diamond_sword/diamond_lance"},
 		{ "predicate": {"custom_model_data": 359}, "model": "item/weapons/diamond_sword/diamond_leviathan_blade"},
 		{ "predicate": {"custom_model_data": 1000}, "model": "block/custom/skysplitter"},
+		{ "predicate": {"custom_model_data": 2000}, "model": "item/weapons/diamond_sword/christmas_basher"},
+		
 		{ "predicate": {"custom_model_data": 14700}, "model": "item/extras/halloween_knife"}
 	]
 }
