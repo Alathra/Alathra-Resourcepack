@@ -9,6 +9,12 @@
   {"predicate":{"custom_model_data":201}, "model": "block/custom/distinguishedsoul"},
   {"predicate":{"custom_model_data":202}, "model": "block/custom/rulerscepter"},
   {"predicate":{"custom_model_data":203}, "model": "block/custom/wizardsstaff"},
-  {"predicate":{"custom_model_data":204}, "model": "item/extras/farmersessential"}
+  {"predicate":{"custom_model_data":204}, "model": "item/extras/farmersessential"},
+  {"predicate":{"custom_model_data":205}, "model": "block/custom/bronzetrophy"},
+  {"predicate":{"custom_model_data":206}, "model": "block/custom/bronzetrophybuild"},
+  {"predicate":{"custom_model_data":207}, "model": "block/custom/silvertrophy"},
+  {"predicate":{"custom_model_data":208}, "model": "block/custom/silvertrophybuild"},
+  {"predicate":{"custom_model_data":209}, "model": "block/custom/goldtrophy"},
+  {"predicate":{"custom_model_data":210}, "model": "block/custom/goldtrophybuild"}
  ]
 }
