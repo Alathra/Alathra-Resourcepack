@@ -43,7 +43,10 @@
 	{"predicate": {"custom_model_data": 20019}, "model": "emeraldstuff:item/wand_of_burn"},
 	{"predicate": {"custom_model_data": 20020}, "model": "emeraldstuff:item/wand_of_cleanse"},
 	{"predicate": {"custom_model_data": 20021}, "model": "emeraldstuff:item/wand_of_pull"},
-	{"predicate": {"custom_model_data": 20022}, "model": "emeraldstuff:item/wand_of_earth"}
+	{"predicate": {"custom_model_data": 20022}, "model": "emeraldstuff:item/wand_of_earth"},
+	{"predicate": {"custom_model_data": 20023}, "model": "emeraldstuff:item/volley_scroll"},
+	{"predicate": {"custom_model_data": 20024}, "model": "emeraldstuff:item/wand_of_lightning"}
+
 
 
   ]
