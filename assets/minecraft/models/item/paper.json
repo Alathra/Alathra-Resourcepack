@@ -297,8 +297,6 @@
         "custom_model_data": 50005
       },
       "model": "emeraldstuff:item/sparkly_platinum_bait"
-    },
-	{"predicate": {"custom_model_data":5600}, "model": "orc_model/orc_skull"},
-	{"predicate": {"custom_model_data":5601}, "model": "orc_model/orc_stone"}
+    }
   ]
 }
