@@ -5,6 +5,9 @@
   },
   "overrides": [
 	{ "predicate": {"custom_model_data": 851}, "model": "item/weapons/stone_sword/stone_bone_dagger"},
-	{ "predicate": {"custom_model_data": 852}, "model": "item/weapons/stone_sword/stone_lance"}
+	{ "predicate": {"custom_model_data": 852}, "model": "item/weapons/stone_sword/stone_lance"},
+	{ "predicate": {"custom_model_data": 5600}, "model": "orc_model/orc_axe"},
+	{ "predicate": {"custom_model_data": 5601}, "model": "orc_model/orc_club"},
+	{ "predicate": {"custom_model_data": 5602}, "model": "orc_model/orc_glaive"}
   ]
 }
