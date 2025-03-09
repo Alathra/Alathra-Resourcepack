@@ -118,19 +118,6 @@
                 "blocking": 1
             },
             "model": "item/shield_blocking"
-        },
-		{
-			"predicate": {
-				"custom_model_data":5600
-			}, 
-			"model": "orc_model/orc_shield"
-		},
-		{
-			"predicate": {
-				"custom_model_data":5600,
-				"blocking": 1
-			}, 
-			"model": "orc_model/orc_shield_blocking"
-		}
+        }
     ]
 }
