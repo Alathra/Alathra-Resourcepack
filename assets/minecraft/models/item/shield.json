@@ -112,12 +112,6 @@
                 "blocking": 1
             },
             "model": "item/weapons/shield/scutum_shield_blocking"
-        },
-		{
-            "predicate": {
-                "blocking": 1
-            },
-            "model": "item/shield_blocking"
         }
     ]
 }
