@@ -156,6 +156,102 @@
     },
     {
       "predicate": {
+        "custom_model_data": 14650
+      },
+      "model": "item/extras/vouchers/quicksilver_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14651
+      },
+      "model": "item/extras/vouchers/rotud_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14652
+      },
+      "model": "item/extras/vouchers/saelz_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14653
+      },
+      "model": "item/extras/vouchers/wild_citrine_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14654
+      },
+      "model": "item/extras/vouchers/abyssal_stone_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14655
+      },
+      "model": "item/extras/vouchers/ancient_wood_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14656
+      },
+      "model": "item/extras/vouchers/baer_steel_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14657
+      },
+      "model": "item/extras/vouchers/blessed_opal_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14658
+      },
+      "model": "item/extras/vouchers/elustone_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14659
+      },
+      "model": "item/extras/vouchers/fyada_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14660
+      },
+      "model": "item/extras/vouchers/luminous_bismuth_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14661
+      },
+      "model": "item/extras/vouchers/magikite_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14662
+      },
+      "model": "item/extras/vouchers/rose_quartz_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14663
+      },
+      "model": "item/extras/vouchers/velotite_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14664
+      },
+      "model": "item/extras/vouchers/solar_gold_voucher"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14665
+      },
+      "model": "item/extras/vouchers/tetracide_voucher"
+    },      
+    {
+      "predicate": {
         "custom_model_data": 14700
       },
       "model": "item/extras/beetroot_pouch"

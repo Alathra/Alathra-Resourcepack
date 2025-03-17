@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/extras/vouchers/baer_steel_voucher"
+    }
+}

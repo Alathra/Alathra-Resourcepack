@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/extras/vouchers/solar_gold_voucher"
+    }
+}
