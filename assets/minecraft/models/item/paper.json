@@ -270,6 +270,18 @@
     },
     {
       "predicate": {
+        "custom_model_data": 14900
+      },
+      "model": "item/extras/energetic_gunpowder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14901
+      },
+      "model": "item/extras/energetic_dragon_breath"
+    },
+    {
+      "predicate": {
         "custom_model_data": 50001
       },
       "model": "fish:item/bait/1"
