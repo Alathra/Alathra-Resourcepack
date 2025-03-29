@@ -36,6 +36,7 @@
 		{ "predicate": {"custom_model_data": 357}, "model": "item/weapons/diamond_sword/kitsune_gohei"},
 		{ "predicate": {"custom_model_data": 358}, "model": "item/weapons/diamond_sword/diamond_lance"},
 		{ "predicate": {"custom_model_data": 359}, "model": "item/weapons/diamond_sword/diamond_leviathan_blade"},
+		{ "predicate": {"custom_model_data": 360}, "model": "item/weapons/diamond_sword/daedric_sword"},
 		{ "predicate": {"custom_model_data": 1000}, "model": "block/custom/skysplitter"},
 		{ "predicate": {"custom_model_data": 2000}, "model": "item/weapons/diamond_sword/christmas_basher"},
 		
