@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/extras/halloween_axe"
+        "layer0": "item/extras/halloween_battleaxe"
     },
 	"display": {
         "thirdperson_righthand": {
